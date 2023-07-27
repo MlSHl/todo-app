@@ -1,4 +1,4 @@
-# Functions for the main.py
+# Basically backend
 
 
 def get_todos(filepath='todos.txt'):
